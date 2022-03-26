@@ -1,0 +1,3 @@
+Error decode code
+java.io.IOException: Zip entry not found: ZipRef{D:\Projetos\HelloWorld\app\build\intermediates\apk\debug\app-debug.apk, 'classes3.dex'}
+
